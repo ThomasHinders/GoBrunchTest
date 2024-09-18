@@ -28,7 +28,7 @@ Dynamic Item List for GoBrunch
 **3. Client-side Script (public/script.js):**
 
     - Fetches references to the quantity input and list elements.
-   ** - Implements the updateList function:**
+    - Implements the updateList function:
         -> Clears the existing list items.
         -> Creates a list item for each number based on the entered quantity.
         -> Sets the content of the list item with "Item" and its corresponding number.
